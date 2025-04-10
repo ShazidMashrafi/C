@@ -1,0 +1,7 @@
+Name            Age     Phone Number
+------------   -----   ---------------
+
+Shazid			19		1234567890
+Mashrafi		19		2147483647
+Shazid			10		1923456789
+Mashrafi		29		1278321942
